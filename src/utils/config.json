@@ -1,0 +1,32 @@
+{
+    "title": " 😋 Sweet Shop 😋",
+    "description": "  Welcome to our Sweet Shop, where every visit is a journey into a world of delectable delights! At Sweet Sensations, we take pride in crafting and curating a tempting array of sweets that will satisfy your sweet tooth and leave you craving for more.",
+  
+    "theme": {
+      "primaryColor": "#4B4453",
+      "secondaryColor": "#AD5E00",
+      "accentColor": "#FBEAFF"
+    },
+  
+    "servicesCardDirection" : "row",
+
+    "services": [
+      {
+        "title": "Sweets",
+        "description": "Our catering service is all about delivering delicious food and a seamless dining experience to your doorstep. From corporate events to special celebrations, we handle the food, so you can focus on the festivities. ",
+        "price": "₹ 5000"
+      },
+      
+      {
+        "title": "Delivery",
+        "description": "Our delivery service is Sweet Shop Express, we understand your cravings for delightful treats, and we're dedicated to ensuring that you can enjoy our mouthwatering confections in the comfort of your home.",
+        "price": "₹ 2000"
+      },
+  
+      {
+        "title": "Take Out",
+        "description": " When you're on the move or  enjoy your favorite sweets at home, our takeout service has you covered. Our kitchen prepares your chosen meals with care, so you can pick them up and savor the flavors wherever you like. ",
+        "price": "Free 🤩"
+      }
+    ]
+  }
